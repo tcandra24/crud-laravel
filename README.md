@@ -12,7 +12,7 @@
 composer install
 ```
 
-## Project setup (JS)
+## Project setup (JS/VueJS)
 ```
 npm install
 ```
