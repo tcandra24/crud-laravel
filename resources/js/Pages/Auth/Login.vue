@@ -54,12 +54,6 @@
                                     <button class="btn btn-primary shadow-sm rounded-sm px-4 w-100"
                                         type="submit">LOGIN</button>
                                 </div>
-                                <div class="col-12">
-                                    <Link href="/register"
-                                        class="btn btn-secondary shadow-sm rounded-sm px-4 mt-2 w-100">
-                                    REGISTER
-                                    </Link>
-                                </div>
                             </div>
                         </form>
                     </div>
